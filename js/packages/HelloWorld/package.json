@@ -1,0 +1,12 @@
+{
+  "name": "HelloWorld",
+  "version": "1.0.0-SNAPSHOT",
+  "main": "kotlin/HelloWorld.js",
+  "devDependencies": {},
+  "dependencies": {
+    "format-util": "^1.0.5"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
